@@ -56,7 +56,7 @@
 	        <meta charset="UTF-8">
 		<link rel="stylesheet" href="assets/css/style.css" type="text/css" />
 		<link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css" type="text/css" />
-		<title>Bienvenido al Infierno >:)</title>
+		<title>Bienvenido al Infierno >:) HAHAHAHA</title>
 	      </head>
 	      <body>
 		<div class="alerta alert alert-info w-25 text-center">
