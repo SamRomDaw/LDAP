@@ -56,7 +56,7 @@
 	        <meta charset="UTF-8">
 		<link rel="stylesheet" href="assets/css/style.css" type="text/css" />
 		<link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css" type="text/css" />
-		<title>Bienvenido a daw2grup4</title>
+		<title>Bienvenido al Infierno >:)</title>
 	      </head>
 	      <body>
 		<div class="alerta alert alert-info w-25 text-center">
